@@ -1,6 +1,6 @@
 import javax.swing.*;
 import java.awt.event.*;
-class LoginS extends JFrame{
+class LoginS extends Jframe{
 
 JLabel l1,l2,l3;
 JTextField t1,t2;
@@ -69,4 +69,5 @@ if(s1.equals("aryan") && s2.equals("pass"))
 l3.setText("login successful");
 
 }}}}
+
   
